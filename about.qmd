@@ -1,5 +1,5 @@
 ---
-title: "About our work"
+title: "About Our Work"
 ---
 
 We are a quantitative lab. We use large data sets, computer code, and causal
