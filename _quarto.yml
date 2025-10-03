@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Social-Ecological Marine Systems Lab"
+  navbar:
+    logo: img/logo.png
+    pinned: true
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - people.qmd
+      - join.qmd
+      - productivity.qmd
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**We are recruiting!** -  See the [Join the lab](join.qmd) tab for more info."
+    type: primary
+    position: below-navbar
+
+format:
+  html:
+    theme:
+      # - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

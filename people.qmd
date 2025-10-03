@@ -1,0 +1,84 @@
+---
+title: "People"
+---
+
+# PhD Students
+
+## JD Reigrut
+
+:::: {.columns}
+
+::: {.column width='75%'}
+I am a first year Dean’s Fellow and PhD student in Environmental Science in Policy. I graduated with honors from Vassar College in 2025 with a degree in Biology, and a minor in Earth Science. Previously, I worked on the TEMPO project at UC Santa Barbara, studying community- based temporary fishery closures.
+
+My current research focuses on creating equitable social-ecological solutions for fisheries
+management. For my dissertation, I aim to use quantitative and qualitative modeling methods to investigate how who designs fishery closures impacts who benefits from them.
+:::
+
+::: {.column width='25%'}
+
+![](img/headshot_reigrut.jpg)
+
+:::
+
+::::
+
+## Gabriella Berman
+
+:::: {.columns}
+
+::: {.column width='75%'}
+I am a fourth year JD/PhD student in the Department of Environmental Science and Policy where I conduct interdisciplinary research applying geocomputational tools and legal scholarship to study resource extraction and biodiversity in the high seas. I earned my J.D. with a concentration in environmental law from the University of Miami’s School of Law in December 2024. I also hold an M.S. in marine biology from Scripps Institution of Oceanography at the University of California San Diego where I used genetic tools to discover new deep-sea species and study their ranges, as well as a B.S. in biology with a concentration in genetics and evolution from the University of Montana where I studied the evolution of large horns in Japanese rhinoceros beetles. I am originally from Maui, Hawai’i and passionate about all things related to the ocean. 
+:::
+
+::: {.column width='25%'}
+
+![](img/headshot_berman.png)
+
+:::
+
+::::
+
+# Undergraduate students
+
+## Aubriana Rhodes
+
+:::: {.columns}
+
+::: {.column width='75%'}
+I am a senior undergraduate student at the University of Miami, majoring in Marine Affairs with a minor in Ecosystem Science and Policy. My research investigates how tuna longline fisheries in the Gulf of Mexico respond to the removal of fuel subsidies. By using geospatial analysis and subsidy data, I work to understand and quantify the impacts of policy changes to model potential behavioral shifts in fishing industries. This research builds on interest in environmental governance and community resilience, which I plan to continue exploring through service in the Peace Corps and eventually in environmental law.
+:::
+
+::: {.column width='25%'}
+
+![](img/headshot_rhodes.jpg)
+
+:::
+
+::::
+
+# PI
+
+## Juan Carlos Villaseñor-Derbez 
+
+:::: {.columns}
+
+::: {.column width='75%'}
+I am an Assistant Professor in the [Department of Environmental Science and Policy](https://environmental-science-policy.earth.miami.edu/) and a Core Faculty member at the [Frost Institute for Data Science and Computing](https://idsc.miami.edu/research/earth-systems/). I hold a B.Sc. in Oceanography from UABC in Mexico, and a master's and Ph.D. in Environmental Science and Management from the Bren School of Envirobnmental Science & Management at UC Santa Barbara.
+
+My research focuses on understanding how institutions and ecological processes shape human incentives, and how human actions, in turn, modify the marine environment. I use modern data science tools and techniques to study the human dimensions of marine conservation and environmental change. Specifically, I leverage extensive vessel-tracking and georeferenced fisheries data to study: 
+
+1. how institutions, incentives, and the environment shape how humans use marine resources, 2. how humans respond to changes in the marine environment and policy landscapes, and 
+3. how these responses feed back into the system.
+:::
+
+::: {.column width='25%'}
+![](img/headshot_villasenor.jpg)
+:::
+
+::::
+
+
+ 
+
+

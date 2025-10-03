@@ -1,0 +1,22 @@
+---
+title: "About our work"
+---
+
+We are a quantitative lab. We use large data sets, computer code, and causal
+inference techniques to study 1) how institutions, incentives, and the environment
+shape how humans use marine resources, 2) how humans respond to changes in the
+marine environment and policy landscapes, and 3) how these responses feed back
+into the system.
+
+Active projects of inquiry include:
+
+- Effectiveness of conservation in the high seas (with John Lynham)
+- Quantifying the distributional outcomes of large-scale marine protected areas
+- Understanding the scales of human mobility at sea
+- Investigating the response of fisheries and shipping industry to hurricanes and tropical storms (with Renato Molina and Keita Abe)
+- Evaluating the benefits, if any, of large-scale marine protected areas to pelagic fish species
+
+Working papers:
+
+- Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. *With Christopher Costello & Olivier Deschênes* | [working paper](docs/working_papers/subsidies2_0.pdf)
+- Digital technologies and the study of adaptation in small-scale fisheries. | [working paper](docs/working_papers/digital_experiments.pdf)
