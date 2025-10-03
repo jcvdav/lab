@@ -18,5 +18,5 @@ Active projects of inquiry include:
 
 Working papers:
 
-- Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. *With Christopher Costello & Olivier Deschênes* | [working paper](docs/working_papers/subsidies2_0.pdf)
-- Digital technologies and the study of adaptation in small-scale fisheries. | [working paper](docs/working_papers/digital_experiments.pdf)
+- Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. *With Christopher Costello & Olivier Deschênes* | [working paper](documents/working_papers/subsidies2_0.pdf)
+- Digital technologies and the study of adaptation in small-scale fisheries. | [working paper](documents/working_papers/digital_experiments.pdf)
