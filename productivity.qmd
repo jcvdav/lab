@@ -2,11 +2,18 @@
 title: "Productivity"
 ---
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## Peer-reviewed publications
 
+### Working papers:
+
+- Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. *With Christopher Costello & Olivier Deschênes* \| [working paper](documents/working_papers/subsidies2_0.pdf)
+- Digital technologies and the study of adaptation in small-scale fisheries. \| [working paper](documents/working_papers/digital_experiments.pdf)
+- Generalizability of Adaptive Responses in Small-Scale 1 Fisheries: Insights from Latin America | [working paper](documents/working_papers/generalizable_adaptation.pdf)
+- Dangerous Waters: The Economic Toll of Piracy on Maritime Shipping. *With Renato Molina, Gavin McDonald, and Grant McDermott* | [working paper](https://dx.doi.org/10.2139/ssrn.4811789)
+
 ### 2025
+
 - **Villaseñor-Derbez JC**, Lynham J, Garibay-Tousant I, Narchi NE, O'Connor R, Olguín-Jacobson C, DeLeo GA, Torre J, Arafeh-Dalmau N, Fulton S, Woodson CB, Micheli F. Climate-resilient fisheries are more resilient in general. npj Ocean Sustainability. In Press.
 - Arafeh-Dalmau N, **Villaseñor-Derbez JC**, Schoeman DS, Mora-Soto A, Bell TW, Butler CL, et al. Global floating kelp forests have limited protection despite intensifying marine heatwave threats. Nature Communications. 2025;16: 3173.
 - Englander G, Zhang J, **Villaseñor-Derbez JC**, Jiang Q, Hu M, Deschenes O, et al. Input subsidies and the depletion of natural capital: Chinese distant water fishing. J Environ Econ Manage. 2025;130: 103127. doi:[10.1016/j.jeem.2025.103127](https://doi.org/10.1016/j.jeem.2025.103127)
@@ -66,7 +73,6 @@ title: "Productivity"
 ### 2014
 
 - **Villaseñor-Derbez JC**, Herrera-Pérez R. Brief description of prey selectivity and ontogenetic changes in the diet of the invasive lionfish Pterois volitans (Actinopterygii, Scorpaenidae) in the Mexican Caribbean. Panam J Aquat Sci. 2014;9: 131–135.
-  
 
 ## Datasets and Software
 
@@ -77,13 +83,10 @@ title: "Productivity"
 - [Vessel registry of Mexican small- and large-scale vessels](https://github.com/mex-fisheries/mex_vessel_registry)
 - [Historical landings by economic unit for Mexico (2000-present)](https://github.com/mex-fisheries/mex_landings)
 
-
 ### Software
 
 - [`EventHorizon`](https://github.com/jcvdav/EventHorizon): An R Package to build panels for event-study models based on a user-specified time horizon for repeated interventions
 - [`EVR628tools`](https://github.com/jcvdav/EVR628tools): An R Package with datasets, palettes, and functions to help in the instruction of [EVR 528 / 628](https://jcvdav.github.io/EVR_628/) Introduction to Data Management and Visualization for Environmental Scientists.
 
 ## Presentations
-
 :::
-
