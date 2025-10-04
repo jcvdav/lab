@@ -57,8 +57,12 @@ I use modern data science tools, extensive vessel-tracking data to study the hum
 ::: {.column width="25%"}
 ![](img/headshot_villasenor.jpg)
 
+---
+
 - [Contact](jc_villasenor@miami.edu)
 - [Personal Website](https://villasenor-derbez.com/)
 - [Google Scholar profile](https://scholar.google.com/citations?user=y-HmU0AAAAAJ&hl=en)
+
+---
 :::
 :::::
