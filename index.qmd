@@ -1,3 +1,5 @@
 ---
-title: "Welcome to the Social-Ecological Marine Systems Lab"
+title: "Welcome to our lab website"
 ---
+
+The site is still in development, but our sections on [who we are](about.qmd), [what we do](people.qmd) and information for [prospective lab members](join.qmd) are mostly ready. Please have a look at those.
