@@ -1,5 +1,14 @@
 ---
 title: "About Our Work"
+title-block-banner: img/JCV_255.jpg
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 650px;
+      }
+      </style>
 ---
 
 ## Our Three Pillars
