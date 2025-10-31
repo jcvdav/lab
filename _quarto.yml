@@ -9,8 +9,6 @@ website:
     pinned: true
     search: true
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
       - people.qmd
       - join.qmd
