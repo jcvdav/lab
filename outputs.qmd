@@ -1,5 +1,5 @@
 ---
-title: "Productivity"
+title: "Outputs"
 title-block-banner: img/JCV_313.jpg
 include-in-header:
   - text: |
@@ -98,4 +98,12 @@ include-in-header:
 - [`EVR628tools`](https://github.com/jcvdav/EVR628tools): An R Package with datasets, palettes, and functions to help in the instruction of [EVR 528 / 628](https://jcvdav.github.io/EVR_628/) Introduction to Data Management and Visualization for Environmental Scientists.
 
 ## Presentations
+
+### 2025
+
+- Rhodes A. An Impromptu Fuel Subsidy Reform Decreases Effort by Tuna Longliners in the Gulf Of Mexico. [GCFI78](https://www.gcfi.org/gcfi78/)
+- Villaseñor-Derbez J.C. Subsidizing the tragedy of the commons: Evidence from fuel subsidies in Mexican industrial fisheries. [Workshop on Energy and Environmental Research](https://uhero.hawaii.edu/workshop-on-energy-and-environmental-research/). University of Hawaii.
+- Villaseñor-Derbez J.C. Evidence of Spillover Benefits from Large-scale Marine Protected Areas to Purse Seine Fisheries. [2025 Measuring Development Conference](https://cega.berkeley.edu/event/measuredev-biodiversity/). The World Bank.
+
+
 :::

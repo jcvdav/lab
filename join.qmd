@@ -1,5 +1,5 @@
 ---
-title: "Join the lab"
+title: "Join the Lab"
 title-block-banner: img/_JCV0367.jpg
 include-in-header:
   - text: |

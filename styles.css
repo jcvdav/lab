@@ -1,1 +1,20 @@
 /* css styles */
+/* Increase page title sizes globally */
+.quarto-title h1.title {
+  font-size: 5rem;
+  line-height: 1.2;
+}
+
+/* Optional: subtitle size */
+.quarto-title .subtitle {
+  font-size: 1.25rem;
+}
+
+/* Mirror (left-right) the banner background but keep overlay text normal */
+.quarto-title-block .quarto-title-banner {
+  transform: scaleX(-1);
+  transform-origin: center;
+}
+.quarto-title-block .quarto-title-banner .quarto-title {
+  transform: scaleX(-1); /* cancels parent flip for text */
+}

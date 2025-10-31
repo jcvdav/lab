@@ -14,7 +14,7 @@ website:
       - about.qmd
       - people.qmd
       - join.qmd
-      - productivity.qmd
+      - outputs.qmd
   announcement: 
     icon: info-circle
     dismissable: true
