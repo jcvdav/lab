@@ -13,7 +13,7 @@ include-in-header:
 
 ## Our Three Pillars
 
-We are a quantitative lab focused on understanding the human dimensions of marine policy and environmental change. We use large data sets, computer code, and causal inference techniques to study how institutions, incentives, and the environment shape human behavior at sea, and how these behaviors feed back into the system. Our work is divided into three topics:
+We are a quantitative lab focused on understanding the human dimensions of marine policy and environmental change. We use large data sets, computer code, and causal inference techniques to study how institutions, incentives, and the environment shape human behavior at sea, and how these behaviors feed back into the system^[Please note that we do not conduct fieldwork]. Our work is divided into three topics:
 
 1. The socio-ecological dimensions of large-scale Marine Protected Areas
 2. Human responses to changes in the marine environment and policy landscapes
