@@ -1,14 +1,6 @@
 ---
 title: "The Social-Ecological Marine Systems Lab"
 title-block-banner: img/SeanPic.jpg
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 650px;
-      }
-      </style>
 ---
 
 <!-- Welcome! The site is still in development, but our sections on [who we are](about.qmd), [what we do](people.qmd) and information for [prospective lab members](join.qmd) are mostly ready. Please have a look at those. -->

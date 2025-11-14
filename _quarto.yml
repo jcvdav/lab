@@ -28,5 +28,12 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 550px;
+      }
+      </style>
 

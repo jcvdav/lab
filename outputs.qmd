@@ -1,14 +1,6 @@
 ---
 title: "Outputs"
 title-block-banner: img/JCV_313.jpg
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 650px;
-      }
-      </style>
 ---
 
 ::: panel-tabset
@@ -23,8 +15,8 @@ include-in-header:
 
 ### 2025
 
-- **Villaseñor-Derbez JC**, Lynham J, Garibay-Tousant I, Narchi NE, O'Connor R, Olguín-Jacobson C, DeLeo GA, Torre J, Arafeh-Dalmau N, Fulton S, Woodson CB, Micheli F. Climate-resilient fisheries are more resilient in general. npj Ocean Sustainability. In Press.
-- Arafeh-Dalmau N, **Villaseñor-Derbez JC**, Schoeman DS, Mora-Soto A, Bell TW, Butler CL, et al. Global floating kelp forests have limited protection despite intensifying marine heatwave threats. Nature Communications. 2025;16: 3173.
+- **Villaseñor-Derbez, J. C.**, Lynham, J., Garibay-Toussaint, I., Narchi, N. E., O’Connor, R., Olguín-Jacobson, C., ... & Micheli, F. (2025). Climate-resilient fisheries are more resilient in general. npj Ocean Sustainability, 4(1), 56. doi: [doi.org/10.1038/s44183-025-00154-1](https://doi.org/10.1038/s44183-025-00154-1)
+- Arafeh-Dalmau N, **Villaseñor-Derbez JC**, Schoeman DS, Mora-Soto A, Bell TW, Butler CL, et al. Global floating kelp forests have limited protection despite intensifying marine heatwave threats. Nature Communications. 2025;16: 3173. doi: [doi.org/10.1038/s41467-025-58054-4](https://doi.org/10.1038/s41467-025-58054-4)
 - Englander G, Zhang J, **Villaseñor-Derbez JC**, Jiang Q, Hu M, Deschenes O, et al. Input subsidies and the depletion of natural capital: Chinese distant water fishing. J Environ Econ Manage. 2025;130: 103127. doi:[10.1016/j.jeem.2025.103127](https://doi.org/10.1016/j.jeem.2025.103127)
 
 ### 2024

@@ -1,14 +1,6 @@
 ---
 title: "People"
 title-block-banner: img/JCV_92.jpg
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 650px;
-      }
-      </style>
 ---
 
 ## PhD Students
@@ -53,6 +45,11 @@ I am a senior undergraduate student at the University of Miami, majoring in Mari
 :::
 :::::
 
+### Other undergraduate students
+
+- Maggie Smith
+- Isabella Morledge
+
 ## PI - Juan Carlos Villaseñor-Derbez
 
 ::::: columns
@@ -69,7 +66,6 @@ I use modern data science tools, extensive vessel-tracking data to study the hum
 ---
 
 - [Contact](jc_villasenor@miami.edu)
-- [Personal Website](https://villasenor-derbez.com/)
 - [Google Scholar profile](https://scholar.google.com/citations?user=y-HmU0AAAAAJ&hl=en)
 
 ---

@@ -1,19 +1,11 @@
 ---
 title: "About Our Work"
 title-block-banner: img/JCV_255.jpg
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 650px;
-      }
-      </style>
 ---
 
 ## Our Three Pillars
 
-We are a quantitative lab focused on understanding the human dimensions of marine policy and environmental change. We use large data sets, computer code, and causal inference techniques to study how institutions, incentives, and the environment shape human behavior at sea, and how these behaviors feed back into the system^[Please note that we do not conduct fieldwork]. Our work is divided into three topics:
+We are a quantitative lab focused on understanding the human dimensions of marine policy and environmental change. We use large data sets, computer code, and causal inference techniques to study how institutions, incentives, and the environment shape human behavior at sea, and how these behaviors feed back into the system^[Please note that we do not conduct fieldwork and that we don't have a wet lab]. Our work is divided into three topics:
 
 1. The socio-ecological dimensions of large-scale Marine Protected Areas
 2. Human responses to changes in the marine environment and policy landscapes
@@ -21,10 +13,10 @@ We are a quantitative lab focused on understanding the human dimensions of marin
 
 Active lines of inquiry include:
 
-- Effectiveness of conservation in the high seas (with John Lynham)
-- Quantifying the distributional outcomes of large-scale marine protected areas (with Eugenia Romero)
+- Effectiveness of conservation in the high seas
+- Quantifying the distributional outcomes of large-scale marine protected areas
 - Evaluating the benefits, if any, of large-scale marine protected areas to pelagic fish species
-- Investigating the response of fisheries and shipping industry to hurricanes and tropical storms (with Renato Molina and Keita Abe)
+- Investigating the response of fisheries and shipping industry to hurricanes and tropical storms
 - Studying fuel subsidy reform in Mexican industrial fisheries
 - Understanding the scales of human mobility at sea
 

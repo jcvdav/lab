@@ -1,14 +1,6 @@
 ---
 title: "Join the Lab"
 title-block-banner: img/_JCV0367.jpg
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 650px;
-      }
-      </style>
 ---
 
 # Prospective PhD Students
@@ -27,5 +19,5 @@ Undergraduate students interested in joining my lab may do so via [MSC 411 / 412
 
 # Masters Students
 
+- Students entering or already enrolled in the [Master of Professional Science (MPS) program](https://mps.earth.miami.edu/index.html) don't typically "join" a lab. However, I encourage you to inquire about internship opportunities in my lab.
 - I don't actively recruit students to enroll in our [Master of Science](https://graduate.earth.miami.edu/phd-and-ms-programs/environmental-science-and-policy/index.html) program unless you are bringing in your own funding. I am happy to work with you in securing your own funding.
-- Students entering the [Master of Professional Science (MPS) program](https://mps.earth.miami.edu/index.html) don't typically join a lab. But you may consider reaching out to discuss joining my lab to execute your internship.
