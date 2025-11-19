@@ -8,10 +8,10 @@ title-block-banner: img/JCV_313.jpg
 
 ### Working papers:
 
+- The Economic and Environmental Cost of Pirate Avoidance. *With Renato Molina, Gavin McDonald, and Grant McDermott*. In review at *Nat. Comm.* | [working paper](documents/working_papers/piracy.pdf)
 - Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. *With Christopher Costello & Olivier Deschênes* \| [working paper](documents/working_papers/subsidies2_0.pdf)
 - Digital technologies and the study of adaptation in small-scale fisheries. \| [working paper](documents/working_papers/digital_experiments.pdf)
 - Generalizability of Adaptive Responses in Small-Scale 1 Fisheries: Insights from Latin America | [working paper](documents/working_papers/generalizable_adaptation.pdf)
-- Dangerous Waters: The Economic Toll of Piracy on Maritime Shipping. *With Renato Molina, Gavin McDonald, and Grant McDermott* | [working paper](https://dx.doi.org/10.2139/ssrn.4811789)
 
 ### 2025
 
