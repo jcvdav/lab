@@ -52,7 +52,7 @@ title-block-banner: img/JCV_313.jpg
 ### 2018
 
 - **Villaseñor-Derbez JC**, Faro C, Wright M, Martínez J, Fitzgerald S, Fulton S, et al. A user-friendly tool to evaluate the effectiveness of no-take marine reserves. PLoS One. 2018;13: e0191821. doi:[10.1371/journal.pone.0191821](https://doi.org/10.1371/journal.pone.0191821)
-- Peake J, Bogdanoff AK, Layman CA, Castillo B, Reale-Munroe K, Chapman J, et al. Feeding ecology of invasive lionfish (Pterois volitans and Pterois miles) in the temperate and tropical western Atlantic. Biologicals. 2018;20: 2567–2597. Available: https://link.springer.com/article/10.1007/s10530-018-1720-5
+- Peake J, Bogdanoff AK, Layman CA, Castillo B, Reale-Munroe K, Chapman J, et al. Feeding ecology of invasive lionfish (Pterois volitans and Pterois miles) in the temperate and tropical western Atlantic. Biological Invasions. 2018;20: 2567–2597. Available: https://link.springer.com/article/10.1007/s10530-018-1720-5
 
 ### 2016
 
@@ -78,8 +78,8 @@ title-block-banner: img/JCV_313.jpg
 
 ### In prep
 
-- Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. *With Christopher Costello & Olivier Deschênes* \| [working paper](documents/working_papers/subsidies2_0.pdf)
-- Generalizability of Adaptive Responses in Small-Scale 1 Fisheries: Insights from Latin America | [working paper](documents/working_papers/generalizable_adaptation.pdf)
+- **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O.Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. \| [working paper](documents/working_papers/subsidies2_0.pdf)
+- **Villaseñor-Derbez J.C.** et al., Generalizability of Adaptive Responses in Small-Scale Fisheries: Insights from Latin America | [working paper](documents/working_papers/generalizable_adaptation.pdf)
 
 ## Datasets and Software
 
