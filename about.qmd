@@ -3,20 +3,11 @@ title: "About Our Work"
 title-block-banner: img/JCV_255.jpg
 ---
 
-## Our Three Pillars
+# Our Three Pillars
 
-We are a quantitative lab focused on understanding the human dimensions of marine policy and environmental change. We use large data sets, computer code, and causal inference techniques to study how institutions, incentives, and the environment shape human behavior at sea, and how these behaviors feed back into the system^[Please note that we do not conduct fieldwork and that we don't have a wet lab]. Our work is divided into three topics:
+The Human–Ocean Systems Lab is a quantitative^[Please note that we do not conduct fieldwork and that we don't have a wet lab] research group applying data science, spatial analysis, and causal inference to study how marine policy and environmental change influence human behavior at sea. We analyze large observational datasets—including vessel-tracking data, satellite observations, climate and storm records, and administrative data—to understand mobility, governance, and the socio-ecological consequences of policy decisions. Our work is divided into three topics:
 
-1. The socio-ecological dimensions of large-scale Marine Protected Areas
-2. Human responses to changes in the marine environment and policy landscapes
-3. The scales of human mobility at sea
-
-Active lines of inquiry include:
-
-- Effectiveness of conservation in the high seas
-- Quantifying the distributional outcomes of large-scale marine protected areas
-- Evaluating the benefits, if any, of large-scale marine protected areas to pelagic fish species
-- Investigating the response of fisheries and shipping industry to hurricanes and tropical storms
-- Studying fuel subsidy reform in Mexican industrial fisheries
-- Understanding the scales of human mobility at sea
+1. **Large-scale Marine Protected Areas:** distributional outcomes, effectiveness, and social-ecological consequences.
+2. **Human responses to environmental and policy change:** marine heatwaves, tropical cyclones, climate-driven shifts, and institutional reforms.
+3. **Mobility at sea:** scales, structure, and drivers of human movement across ocean space.
 

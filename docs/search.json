@@ -60,14 +60,7 @@
     "href": "about.html",
     "title": "About Our Work",
     "section": "",
-    "text": "We are a quantitative lab focused on understanding the human dimensions of marine policy and environmental change. We use large data sets, computer code, and causal inference techniques to study how institutions, incentives, and the environment shape human behavior at sea, and how these behaviors feed back into the system1. Our work is divided into three topics:\n\nThe socio-ecological dimensions of large-scale Marine Protected Areas\nHuman responses to changes in the marine environment and policy landscapes\nThe scales of human mobility at sea\n\nActive lines of inquiry include:\n\nEffectiveness of conservation in the high seas\nQuantifying the distributional outcomes of large-scale marine protected areas\nEvaluating the benefits, if any, of large-scale marine protected areas to pelagic fish species\nInvestigating the response of fisheries and shipping industry to hurricanes and tropical storms\nStudying fuel subsidy reform in Mexican industrial fisheries\nUnderstanding the scales of human mobility at sea"
-  },
-  {
-    "objectID": "about.html#our-three-pillars",
-    "href": "about.html#our-three-pillars",
-    "title": "About Our Work",
-    "section": "",
-    "text": "We are a quantitative lab focused on understanding the human dimensions of marine policy and environmental change. We use large data sets, computer code, and causal inference techniques to study how institutions, incentives, and the environment shape human behavior at sea, and how these behaviors feed back into the system1. Our work is divided into three topics:\n\nThe socio-ecological dimensions of large-scale Marine Protected Areas\nHuman responses to changes in the marine environment and policy landscapes\nThe scales of human mobility at sea\n\nActive lines of inquiry include:\n\nEffectiveness of conservation in the high seas\nQuantifying the distributional outcomes of large-scale marine protected areas\nEvaluating the benefits, if any, of large-scale marine protected areas to pelagic fish species\nInvestigating the response of fisheries and shipping industry to hurricanes and tropical storms\nStudying fuel subsidy reform in Mexican industrial fisheries\nUnderstanding the scales of human mobility at sea"
+    "text": "The Human–Ocean Systems Lab is a quantitative1 research group applying data science, spatial analysis, and causal inference to study how marine policy and environmental change influence human behavior at sea. We analyze large observational datasets—including vessel-tracking data, satellite observations, climate and storm records, and administrative data—to understand mobility, governance, and the socio-ecological consequences of policy decisions. Our work is divided into three topics:\n\nLarge-scale Marine Protected Areas: distributional outcomes, effectiveness, and social-ecological consequences.\nHuman responses to environmental and policy change: marine heatwaves, tropical cyclones, climate-driven shifts, and institutional reforms.\nMobility at sea: scales, structure, and drivers of human movement across ocean space."
   },
   {
     "objectID": "about.html#footnotes",
@@ -75,12 +68,5 @@
     "title": "About Our Work",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nPlease note that we do not conduct fieldwork and that we don’t have a wet lab↩︎"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Social-Ecological Marine Systems Lab",
-    "section": "",
-    "text": "Quantitative Approaches to Studying Marine Policy and Environmental Change"
   }
 ]
