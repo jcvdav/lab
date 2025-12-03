@@ -72,9 +72,9 @@ title-block-banner: img/JCV_313.jpg
 
 ### In review
 
-- Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. In review at Science.
-- **Villaseñor-Derbez J.C.** et al., Digital technologies and the study of adaptation in small-scale fisheries. In review at Ocean and Coastal Management \| [working paper](documents/working_papers/digital_experiments.pdf)
-- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. In review at Nature Communications | [working paper](documents/working_papers/piracy.pdf)
+- Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. In review at _Science Advances_.
+- **Villaseñor-Derbez J.C.** et al., Digital technologies and the study of adaptation in small-scale fisheries. Minor revisions at _Ocean & Coastal Management_ \| [working paper](documents/working_papers/digital_experiments.pdf)
+- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. In review at _Nature Communications_ | [preprint](https://doi.org/10.1038/s44183-025-00154-1)
 
 ### In prep
 
