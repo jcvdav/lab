@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Human–Ocean Systems Lab</title>
+<title>How to Update the People Page – Human–Ocean Systems Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,13 +68,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-
-      .quarto-title-block .quarto-title-banner {
-        background-image: url(img/SeanPic.jpg);
-background-size: cover;
-      }
-</style>
-<style>
 .quarto-title-block .quarto-title-banner {
   background-position-y: center;
   height: 550px;
@@ -88,10 +81,10 @@ background-size: cover;
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -134,36 +127,163 @@ background-size: cover;
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Human–Ocean Systems Lab</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#contributing-to-the-lab-website" id="toc-contributing-to-the-lab-website" class="nav-link active" data-scroll-target="#contributing-to-the-lab-website">Contributing to the Lab Website</a></li>
+  <li><a href="#clone-the-repo" id="toc-clone-the-repo" class="nav-link" data-scroll-target="#clone-the-repo">1. Clone the repo</a></li>
+  <li><a href="#create-a-new-branch" id="toc-create-a-new-branch" class="nav-link" data-scroll-target="#create-a-new-branch">3. Create a New Branch</a></li>
+  <li><a href="#open-the-people.qmd-file" id="toc-open-the-people.qmd-file" class="nav-link" data-scroll-target="#open-the-people.qmd-file">4. Open the <code>people.qmd</code> File</a></li>
+  <li><a href="#add-or-edit-your-profile" id="toc-add-or-edit-your-profile" class="nav-link" data-scroll-target="#add-or-edit-your-profile">5. Add or Edit Your Profile</a>
+  <ul class="collapse">
+  <li><a href="#guidelines" id="toc-guidelines" class="nav-link" data-scroll-target="#guidelines">Guidelines</a></li>
+  </ul></li>
+  <li><a href="#add-your-photo" id="toc-add-your-photo" class="nav-link" data-scroll-target="#add-your-photo">6. Add Your Photo</a></li>
+  <li><a href="#commit-your-changes" id="toc-commit-your-changes" class="nav-link" data-scroll-target="#commit-your-changes">7. Commit Your Changes</a></li>
+  <li><a href="#open-a-pull-request-pr" id="toc-open-a-pull-request-pr" class="nav-link" data-scroll-target="#open-a-pull-request-pr">8. Open a Pull Request (PR)</a></li>
+  <li><a href="#review-and-merge" id="toc-review-and-merge" class="nav-link" data-scroll-target="#review-and-merge">9. Review and Merge</a></li>
+  <li><a href="#thank-you" id="toc-thank-you" class="nav-link" data-scroll-target="#thank-you">Thank You</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">How to Update the People Page</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<!-- Welcome! The site is still in development, but our sections on [who we are](about.qmd), [what we do](people.qmd) and information for [prospective lab members](join.qmd) are mostly ready. Please have a look at those. -->
-<section id="data-science-for-marine-policy-and-environmental-change" class="level2">
-<h2 class="anchored" data-anchor-id="data-science-for-marine-policy-and-environmental-change">Data Science for Marine Policy and Environmental Change</h2>
+</header>
+
+
+<section id="contributing-to-the-lab-website" class="level1">
+<h1>Contributing to the Lab Website</h1>
+<p>This guide explains how students and collaborators can update the <strong>People</strong> page of the lab website by submitting a pull request (PR) through GitHub. All edits take place inside <code>people.qmd</code></p>
+<hr>
+</section>
+<section id="clone-the-repo" class="level1">
+<h1>1. Clone the repo</h1>
+<ol type="1">
+<li><p>Open the lab’s <a href="https://github.com/jcvdav/lab">GitHub repository</a>.</p></li>
+<li><p>Use the green <code>Code</code> button to obtain the repo’s URL.</p></li>
+<li><p>Open <strong>RStudio</strong></p></li>
+<li><p>Go to: File → New Project → Version Control → Git</p></li>
+<li><p>Paste the URL of the repo <code>https://github.com/jcvdav/lab.git</code></p></li>
+<li><p>Choose a local folder and click <strong>Create Project</strong>.</p></li>
+</ol>
+<hr>
+</section>
+<section id="create-a-new-branch" class="level1">
+<h1>3. Create a New Branch</h1>
+<p>In RStudio (Terminal, not console!):</p>
+<pre><code>git checkout -b dev_&lt;your name&gt;</code></pre>
+</section>
+<section id="open-the-people.qmd-file" class="level1">
+<h1>4. Open the <code>people.qmd</code> File</h1>
+<p>All profiles are inside: <code>people.qmd</code></p>
+<p>Scroll to the appropriate section: <strong>PhD Students</strong>, <strong>Undergraduate Students</strong>, etc. You may add a new section if a fitting one does not exist already.</p>
+<hr>
+</section>
+<section id="add-or-edit-your-profile" class="level1">
+<h1>5. Add or Edit Your Profile</h1>
+<section id="guidelines" class="level2">
+<h2 class="anchored" data-anchor-id="guidelines">Guidelines</h2>
+<ul>
+<li>Keep the <strong>same layout</strong> as the existing profiles.<br>
+</li>
+<li>Write your bio in paragraph form.<br>
+</li>
+<li>Put your name in a <code>###</code> heading.<br>
+</li>
+<li>Keep formatting consistent with other entries.</li>
+</ul>
+</section>
+</section>
+<section id="add-your-photo" class="level1">
+<h1>6. Add Your Photo</h1>
+<p>Put your headshot in: <code>img/</code></p>
+<p>Example filenames:</p>
+<ul>
+<li><code>headshot_smith.jpg</code></li>
+<li><code>headshot_lopez.png</code></li>
+</ul>
+<p>Recommended:</p>
+<ul>
+<li>Under 300 KB<br>
+</li>
+<li>JPG or PNG files</li>
+</ul>
+<p>Reference in your profile as: <code>img/headshot_lastname.jpg</code></p>
+<p>Render the page and make sure your profile looks OK.</p>
+<hr>
+</section>
+<section id="commit-your-changes" class="level1">
+<h1>7. Commit Your Changes</h1>
+<p>In RStudio:</p>
+<ol type="1">
+<li><p>Open the <strong>Git</strong> tab<br>
+</p></li>
+<li><p>Stage edited files<br>
+</p></li>
+<li><p>Write a commit message, e.g.:</p>
+<pre><code>Add profile for Jane Doe to people.qmd</code></pre></li>
+<li><p>Click <strong>Commit</strong><br>
+</p></li>
+<li><p>Click <strong>Push</strong></p></li>
+</ol>
+</section>
+<section id="open-a-pull-request-pr" class="level1">
+<h1>8. Open a Pull Request (PR)</h1>
+<ol type="1">
+<li>Go to the repo’s page on GitHub<br>
+</li>
+<li>Click on the <strong>Pull request</strong> tab and start a new request</li>
+<li>Make sure the PR compares:</li>
+</ol>
+<ul>
+<li><strong>base branch:</strong> <code>main</code><br>
+</li>
+<li><strong>compare branch:</strong> your branch</li>
+</ul>
+<ol start="4" type="1">
+<li><p>Add a short description, e.g.: <code>Added my profile to people.qmd and uploaded a headshot.</code></p></li>
+<li><p>Click <strong>Create pull request</strong>.</p></li>
+</ol>
+<hr>
+</section>
+<section id="review-and-merge" class="level1">
+<h1>9. Review and Merge</h1>
+<p>I will then:</p>
+<ul>
+<li>Review your changes<br>
+</li>
+<li>Suggest edits if needed<br>
+</li>
+<li>Merge the PR</li>
+</ul>
+<p>GitHub Pages will rebuild the site automatically.</p>
+<hr>
+</section>
+<section id="thank-you" class="level1">
+<h1>Thank You</h1>
+<p>Thank you for contributing to the lab website! Your updates help keep our team information accurate and up to date.</p>
 
 
 </section>

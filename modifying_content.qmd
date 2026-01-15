@@ -1,0 +1,113 @@
+---
+title: "How to Update the People Page"
+format: html
+toc: true
+toc-title: "On this page"
+---
+
+# Contributing to the Lab Website
+
+This guide explains how students and collaborators can update the **People** page of the lab website by submitting a pull request (PR) through GitHub. All edits take place inside `people.qmd`
+
+---
+
+# 1. Clone the repo
+
+1. Open the lab’s [GitHub repository](https://github.com/jcvdav/lab).
+2. Use the green `Code` button to obtain the repo's URL.
+3. Open **RStudio**
+4. Go to: File → New Project → Version Control → Git
+
+5. Paste the URL of the repo `https://github.com/jcvdav/lab.git`
+6. Choose a local folder and click **Create Project**.
+
+---
+
+# 3. Create a New Branch
+
+In RStudio (Terminal, not console!):
+
+```
+git checkout -b dev_<your name>
+```
+
+# 4. Open the `people.qmd` File
+
+All profiles are inside: `people.qmd`
+
+Scroll to the appropriate section: **PhD Students**, **Undergraduate Students**, etc. You may add a new section if a fitting one does not exist already.
+
+---
+
+# 5. Add or Edit Your Profile
+
+## Guidelines
+
+- Keep the **same layout** as the existing profiles.  
+- Write your bio in paragraph form.  
+- Put your name in a `###` heading.  
+- Keep formatting consistent with other entries.
+
+# 6. Add Your Photo
+
+Put your headshot in: `img/`
+
+Example filenames:
+
+- `headshot_smith.jpg`
+- `headshot_lopez.png`
+
+Recommended:
+
+- Under 300 KB  
+- JPG or PNG files
+
+Reference in your profile as: `img/headshot_lastname.jpg`
+
+Render the page and make sure your profile looks OK.
+
+---
+
+# 7. Commit Your Changes
+
+In RStudio:
+
+1. Open the **Git** tab  
+2. Stage edited files  
+3. Write a commit message, e.g.:
+
+       Add profile for Jane Doe to people.qmd
+
+4. Click **Commit**  
+5. Click **Push**
+
+# 8. Open a Pull Request (PR)
+
+1. Go to the repo's page on GitHub  
+2. Click on the **Pull request** tab and start a new request
+3. Make sure the PR compares:
+
+- **base branch:** `main`  
+- **compare branch:** your branch  
+
+4. Add a short description, e.g.: `Added my profile to people.qmd and uploaded a headshot.`
+
+5. Click **Create pull request**.
+
+---
+
+# 9. Review and Merge
+
+I will then:
+
+- Review your changes  
+- Suggest edits if needed  
+- Merge the PR  
+
+GitHub Pages will rebuild the site automatically.
+
+---
+
+# Thank You
+
+Thank you for contributing to the lab website! Your updates help keep our team information accurate and up to date.

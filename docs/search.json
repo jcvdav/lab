@@ -25,7 +25,7 @@
     "href": "people.html#pi---juan-carlos-villaseñor-derbez",
     "title": "People",
     "section": "PI - Juan Carlos Villaseñor-Derbez",
-    "text": "PI - Juan Carlos Villaseñor-Derbez\n\n\nI am an Assistant Professor in the Department of Environmental Science and Policy and a Core Faculty member at the Frost Institute for Data Science and Computing. I hold a B.Sc. in Oceanography from UABC in Mexico, and a master’s and Ph.D. in Environmental Science and Management from the Bren School of Environmental Science & Management at UC Santa Barbara.\nI use modern data science tools, extensive vessel-tracking data to study the human dimensions of marine policy and environmental change, with a focus on our three pillars.\n\n\n\n\nContact\nGoogle Scholar profile"
+    "text": "PI - Juan Carlos Villaseñor-Derbez\n\n\nI am an Assistant Professor in the Department of Environmental Science and Policy and a Core Faculty member at the Frost Institute for Data Science and Computing. I hold a B.Sc. in Oceanography from UABC in Mexico, and a master’s and Ph.D. in Environmental Science and Management from the Bren School of Environmental Science & Management at UC Santa Barbara.\nI use modern data science tools, extensive vessel-tracking data to study the human dimensions of marine policy and environmental change, with a focus on our three pillars. I am part of the Ocean100+ Steering Committee and the Society for Conservation Biology’s Impact Evaluation Working Group Mentoring Program.\n\n\n\n\nContact\nGoogle Scholar profile"
   },
   {
     "objectID": "outputs.html",
@@ -68,5 +68,19 @@
     "title": "About Our Work",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nPlease note that we do not conduct fieldwork and that we don’t have a wet lab↩︎"
+  },
+  {
+    "objectID": "modifying_content.html",
+    "href": "modifying_content.html",
+    "title": "How to Update the People Page",
+    "section": "",
+    "text": "This guide explains how students and collaborators can update the People page of the lab website by submitting a pull request (PR) through GitHub. All edits take place inside people.qmd"
+  },
+  {
+    "objectID": "modifying_content.html#guidelines",
+    "href": "modifying_content.html#guidelines",
+    "title": "How to Update the People Page",
+    "section": "Guidelines",
+    "text": "Guidelines\n\nKeep the same layout as the existing profiles.\n\nWrite your bio in paragraph form.\n\nPut your name in a ### heading.\n\nKeep formatting consistent with other entries."
   }
 ]
