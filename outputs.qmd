@@ -6,9 +6,14 @@ title-block-banner: img/JCV_313.jpg
 ::: panel-tabset
 ## Peer-reviewed publications
 
+<!-- Use Vancouver citation style -->
+
+### 2026
+- **Villaseñor-Derbez JC**, Fernández R, Fulton S, Hernández-Velasco A, Hernández T, Woodson CB, Cárdenas JC, DeLeo GA, Torre J, Micheli F. Digital technologies and the study of adaptation in small-scale fisheries. Ocean & Coastal Management. 2026 Apr 1;275:108071. doi: [doi.org/10.1016/j.ocecoaman.2025.108071](https://doi.org/10.1016/j.ocecoaman.2025.108071)
+
 ### 2025
 
-- **Villaseñor-Derbez, J. C.**, Lynham, J., Garibay-Toussaint, I., Narchi, N. E., O’Connor, R., Olguín-Jacobson, C., ... & Micheli, F. (2025). Climate-resilient fisheries are more resilient in general. npj Ocean Sustainability, 4(1), 56. doi: [doi.org/10.1038/s44183-025-00154-1](https://doi.org/10.1038/s44183-025-00154-1)
+- **Villaseñor-Derbez JC**, Lynham J, Garibay-Toussaint I, Narchi NE, O’Connor R, Olguín-Jacobson C, DeLeo GA, Torre J, Arafeh-Dalmau N, Fulton S, Woodson CB. Climate-resilient fisheries are more resilient in general. npj Ocean Sustainability. 2025 Nov 11;4(1):56. doi: [doi.org/10.1038/s44183-025-00154-1](https://doi.org/10.1038/s44183-025-00154-1)
 - Arafeh-Dalmau N, **Villaseñor-Derbez JC**, Schoeman DS, Mora-Soto A, Bell TW, Butler CL, et al. Global floating kelp forests have limited protection despite intensifying marine heatwave threats. Nature Communications. 2025;16: 3173. doi: [doi.org/10.1038/s41467-025-58054-4](https://doi.org/10.1038/s41467-025-58054-4)
 - Englander G, Zhang J, **Villaseñor-Derbez JC**, Jiang Q, Hu M, Deschenes O, et al. Input subsidies and the depletion of natural capital: Chinese distant water fishing. J Environ Econ Manage. 2025;130: 103127. doi:[10.1016/j.jeem.2025.103127](https://doi.org/10.1016/j.jeem.2025.103127)
 
@@ -73,7 +78,6 @@ title-block-banner: img/JCV_313.jpg
 ### In review
 
 - Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. In review at _Science Advances_.
-- **Villaseñor-Derbez J.C.** et al., Digital technologies and the study of adaptation in small-scale fisheries. Minor revisions at _Ocean & Coastal Management_ \| [working paper](documents/working_papers/digital_experiments.pdf)
 - Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. In review at _Nature Communications_ | [preprint](https://doi.org/10.1038/s44183-025-00154-1)
 
 ### In prep
