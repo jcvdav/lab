@@ -33,21 +33,26 @@ I am a fourth year JD/PhD student in the Department of Environmental Science and
 
 ## Undergraduate students
 
-### Aubriana Rhodes
+### Maggie Smith
 
 ::::: columns
 ::: {.column width="75%"}
-I am a senior undergraduate student at the University of Miami, majoring in Marine Affairs with a minor in Ecosystem Science and Policy. My research investigates how tuna longline fisheries in the Gulf of Mexico respond to the removal of fuel subsidies. By using geospatial analysis and subsidy data, I work to understand and quantify the impacts of policy changes to model potential behavioral shifts in fishing industries. This research builds on interest in environmental governance and community resilience, which I plan to continue exploring through service in the Peace Corps and eventually in environmental law.
+
 :::
 
 ::: {.column width="25%"}
-![](img/headshot_rhodes.jpg)
+![](img/headshot_smith.jpg)
 :::
 :::::
 
-### Other undergraduate students
+## Past students
 
-- Maggie Smith
+::::: columns
+::: {.column width="25%"}
+![Aubriana Rhodes (Graduated Fall 2025)](img/headshot_rhodes.jpg)
+:::
+:::::
+
 
 ## PI - Juan Carlos Villaseñor-Derbez
 
