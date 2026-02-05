@@ -78,21 +78,19 @@ title-block-banner: img/JCV_313.jpg
 ### In review
 
 - Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. In review at _Science Advances_.
-- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. In review at _Nature Communications_ | [preprint](https://doi.org/10.1038/s44183-025-00154-1)
+- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. R&R at _Nature Communications_ | [preprint](https://doi.org/10.1038/s44183-025-00154-1)
 
 ### In prep
 
-- **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O.Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. \| [working paper](documents/working_papers/subsidies2_0.pdf)
+- **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. \| [working paper](documents/working_papers/subsidies2_0.pdf)
 - **Villaseñor-Derbez J.C.** et al., Generalizability of Adaptive Responses in Small-Scale Fisheries: Insights from Latin America | [working paper](documents/working_papers/generalizable_adaptation.pdf)
 
 ## Datasets and Software
 
 ### Datasets
 
-- [A geospatial list of Mexican Ports](https://github.com/mex-fisheries/mex_ports)
-- [Vessel Tracking Data from Mexico's Vessel Monitoring System (2007 - present)](https://github.com/mex-fisheries/mex_vms)
-- [Vessel registry of Mexican small- and large-scale vessels](https://github.com/mex-fisheries/mex_vessel_registry)
-- [Historical landings by economic unit for Mexico (2000-present)](https://github.com/mex-fisheries/mex_landings)
+- [MEX-fisheries](https://mex-fisheries.github.io/mex-fisheries/)
+- [RFMO Tuna](https://doi.org/10.5281/zenodo.14207429)
 
 ### Software
 
