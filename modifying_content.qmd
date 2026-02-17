@@ -23,7 +23,7 @@ This guide explains how students and collaborators can update the **People** pag
 
 ---
 
-# 3. Create a New Branch
+# 2. Create a New Branch
 
 In RStudio (Terminal, not console!):
 
@@ -31,7 +31,7 @@ In RStudio (Terminal, not console!):
 git checkout -b dev_<your name>
 ```
 
-# 4. Open the `people.qmd` File
+# 3. Open the `people.qmd` File
 
 All profiles are inside: `people.qmd`
 
@@ -39,7 +39,7 @@ Scroll to the appropriate section: **PhD Students**, **Undergraduate Students**,
 
 ---
 
-# 5. Add or Edit Your Profile
+# 4. Add or Edit Your Profile
 
 ## Guidelines
 
@@ -48,7 +48,7 @@ Scroll to the appropriate section: **PhD Students**, **Undergraduate Students**,
 - Put your name in a `###` heading.  
 - Keep formatting consistent with other entries.
 
-# 6. Add Your Photo
+# 5. Add Your Photo
 
 Put your headshot in: `img/`
 
@@ -68,7 +68,7 @@ Render the page and make sure your profile looks OK.
 
 ---
 
-# 7. Commit Your Changes
+# 6. Commit Your Changes
 
 In RStudio:
 
@@ -81,7 +81,7 @@ In RStudio:
 4. Click **Commit**  
 5. Click **Push**
 
-# 8. Open a Pull Request (PR)
+# 7. Open a Pull Request (PR)
 
 1. Go to the repo's page on GitHub  
 2. Click on the **Pull request** tab and start a new request
@@ -96,7 +96,7 @@ In RStudio:
 
 ---
 
-# 9. Review and Merge
+# 8. Review and Merge
 
 I will then:
 
