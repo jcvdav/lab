@@ -47,6 +47,20 @@ My current work and research focuses on compiling catch and effort data from Reg
 :::
 :::::
 
+### Sabirah Carfagna
+I am an M.S. student in the Department of Environmental Science and Policy at the University of Miami and hold a B.S. in Physics from Emory University. My previous work focused on modeling and experimental analysis of physical systems, including optical spectroscopy, thermal diffusion, and fluid dynamics. 
+
+My work and research now focus on how climate change may alter the effectiveness of Territorial Use Rights for Fisheries (TURFs) in Mexico under different climate scenarios by shifting species distributions and habitat suitability. 
+
+::: {.column width="25%"}
+![](img/headshot.jpeg)
+
+::::: columns
+::: {.column width="75%"}
+
+:::
+
+
 ## Undergraduate students
 
 ### Maggie Smith
