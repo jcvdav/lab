@@ -67,7 +67,6 @@ title-block-banner: img/JCV_313.jpg
 
 - Dreyfus-León MJ, Mejía-Trejo A, **Villaseñor-Derbez JC**. Analysis of null sets (zero catch) made by the Mexican tuna purse seine fleet (2000--2013). _Ciencias Marinas_. 2015;41: 85–92.
 - **Villaseñor-Derbez JC**, Hernández-Velasco A, Erauskin M, Fulton S, Cota-Nieto JJ, Torre J, et al. Effects of short-term marine reserves on grouper and bass populations. DataMares InteractiveResource http://dx doi org/1013022/M33K52. 2015.
-- Dreyfus-León MJ, Mejía-Trejo A. Analysis of null sets (zero cat ch) made by the Mexican tuna pur se seine fleet (2000–2013). _Cienc Mar_. 2015. Available: https://www.redalyc.org/pdf/480/48039202001.pdf
 
 ### 2014
 
@@ -77,13 +76,14 @@ title-block-banner: img/JCV_313.jpg
 
 ### In review
 
-- Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. In review at _Science Advances_.
-- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. R&R at _Nature Communications_ | [preprint](https://doi.org/10.1038/s44183-025-00154-1)
+- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. Revise and resubmit at _Nature Communications_ (February 2, 2026: NCOMMS-25-93345) | [working paper](https://doi.org/10.1038/s44183-025-00154-1)
+- Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. Revise and resubmit at _Science Advances_ (March 9, 2026: aee6998).
+- **Villaseñor-Derbez JC**, Willet Burfoot A, and Molina R. Competitiveness in American Seafood Requires Promoting Fisheries to be Resilient. Fish and Fisheries (March 9, 2026: 3055189). | [working paper](documents/working_papers/resilient_gulf.pdf)
 
 ### In prep
 
-- **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Subsidizing the tragedy of the commons: Fuel subsidies modify fishing behavior and drive overfishing. \| [working paper](documents/working_papers/subsidies2_0.pdf)
-- **Villaseñor-Derbez J.C.** et al., Generalizability of Adaptive Responses in Small-Scale Fisheries: Insights from Latin America | [working paper](documents/working_papers/generalizable_adaptation.pdf)
+- **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Natural Experiments Show Fuel Subsidies Amplify Fishing Pressure in Industrial Fisheries. | [working paper](documents/working_papers/subsidies2_0.pdf)
+- **Villaseñor-Derbez J.C.** et al., Towards the Study the Generalizability of Adaptive Responses in Small-Scale Fisheries | [working paper](documents/working_papers/generalizable_adaptation.pdf)
 
 ## Datasets and Software
 
@@ -97,13 +97,13 @@ title-block-banner: img/JCV_313.jpg
 - [`EventHorizon`](https://github.com/jcvdav/EventHorizon): An R Package to build panels for event-study models based on a user-specified time horizon for repeated interventions
 - [`EVR628tools`](https://github.com/jcvdav/EVR628tools): An R Package with datasets, palettes, and functions to help in the instruction of [EVR 528 / 628](https://jcvdav.github.io/EVR_628/) Introduction to Data Management and Visualization for Environmental Scientists.
 
-## Presentations
+<!-- ## Presentations -->
 
-### 2025
+<!-- ### 2025 -->
 
-- Rhodes A. An Impromptu Fuel Subsidy Reform Decreases Effort by Tuna Longliners in the Gulf Of Mexico. [GCFI78](https://www.gcfi.org/gcfi78/)
-- Villaseñor-Derbez J.C. Subsidizing the tragedy of the commons: Evidence from fuel subsidies in Mexican industrial fisheries. [Workshop on Energy and Environmental Research](https://uhero.hawaii.edu/workshop-on-energy-and-environmental-research/). University of Hawaii.
-- Villaseñor-Derbez J.C. Evidence of Spillover Benefits from Large-scale Marine Protected Areas to Purse Seine Fisheries. [2025 Measuring Development Conference](https://cega.berkeley.edu/event/measuredev-biodiversity/). The World Bank.
+<!-- - Rhodes A. An Impromptu Fuel Subsidy Reform Decreases Effort by Tuna Longliners in the Gulf Of Mexico. [GCFI78](https://www.gcfi.org/gcfi78/) -->
+<!-- - Villaseñor-Derbez J.C. Subsidizing the tragedy of the commons: Evidence from fuel subsidies in Mexican industrial fisheries. [Workshop on Energy and Environmental Research](https://uhero.hawaii.edu/workshop-on-energy-and-environmental-research/). University of Hawaii. -->
+<!-- - Villaseñor-Derbez J.C. Evidence of Spillover Benefits from Large-scale Marine Protected Areas to Purse Seine Fisheries. [2025 Measuring Development Conference](https://cega.berkeley.edu/event/measuredev-biodiversity/). The World Bank. -->
 
 
 :::
