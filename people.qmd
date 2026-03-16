@@ -76,14 +76,6 @@ I am a third year undergraduate student at the University of Miami pursuing a ma
 :::
 :::::
 
-## Past students
-
-::::: columns
-::: {.column width="25%"}
-![Aubriana Rhodes (Graduated Fall 2025)](img/headshot_rhodes.jpg)
-:::
-:::::
-
 
 ## PI - Juan Carlos Villaseñor-Derbez
 
@@ -105,5 +97,13 @@ I use modern data science tools, extensive vessel-tracking data to study the hum
 - [Personal website](https://villasenor-derbez.com/)
 
 ---
+:::
+:::::
+
+## Past students
+
+::::: columns
+::: {.column width="25%"}
+![Aubriana Rhodes (Graduated Fall 2025)](img/headshot_rhodes.jpg)
 :::
 :::::
