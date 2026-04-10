@@ -9,9 +9,9 @@ My students enroll in the [PhD program in Environmental Science and Policy](http
 
 Note that students don't join the lab to work on specific projects. You will have the opportunity to develop your own research projects, so long as they align with [our three pillars](about.qmd#our-three-pillars). Additionally, my PhD students are required to enroll in the PhD Econometrics sequence at the Department of Economics to gain proficiency in causal inference techniques, as well as my [Intro to Environmental Data Science](https://jcvdav.github.io/EVR_628/) class. Students may opt to gain these skills via independent study or to substitute them for other quantitative skills (e.g. machine learning). All students are expected to be/become proficient in at least one scripting language (R / Python), as well as version control via git and GitHub. Your background should be in Environmental Science, Environmental Economics, Geography, Data Science, or related fields.
 
-## PhD Positions for Fall '26
+## PhD Positions for Fall '27
 
-I am recruiting up to two **fully funded** (5-yrs) PhD students to start in Fall 2026. [Prospective students should contact me^[email: jc_villasenor@miami.edu] well in advance of the application deadline of Jan 8, 2026.]{.underline} Please include your CV and a 1-2 page document (max) describing your past experience in academic research, your research interests, and your motivations for pursuing a PhD. You may also wish to include other products that showcase your skills, such as a writing sample or GitHub repository. 
+I am recruiting one **fully funded** (5-yrs) PhD student to start in Fall 2027. [Prospective students should contact me^[email: jc_villasenor@miami.edu] well in advance of the application deadline of Jan 8, 2027.]{.underline} Please include your CV and a 1-2 page document (max) describing your past experience in academic research, your research interests, and your motivations for pursuing a PhD. You may also wish to include other products that showcase your skills, such as a writing sample or GitHub repository. I am also happy to accommodate for students bringing their own funding.
 
 # Undergraduate students
 
