@@ -77,19 +77,20 @@ title-block-banner: img/JCV_313.jpg
 ### In review
 
 - Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. Revise and resubmit at _Nature Communications_ (February 2, 2026: NCOMMS-25-93345) | [working paper](https://doi.org/10.1038/s44183-025-00154-1)
-- Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. Revise and resubmit at _Science Advances_ (March 9, 2026: aee6998).
+- Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. Revise and resubmit at _Science Advances_ (Apr 7, 2026: aee6998).
 - **Villaseñor-Derbez JC**, Willet Burfoot A, and Molina R. Competitiveness in American Seafood Requires Promoting Fisheries to be Resilient. Fish and Fisheries (March 30, 2026: 1931232). | [working paper](documents/working_papers/resilient_gulf.pdf)
 
 ### In prep
 
 - **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Natural Experiments Show Fuel Subsidies Amplify Fishing Pressure in Industrial Fisheries. | [working paper](documents/working_papers/subsidies2_0.pdf)
 - **Villaseñor-Derbez J.C.** et al., Towards the Study the Generalizability of Adaptive Responses in Small-Scale Fisheries | [working paper](documents/working_papers/generalizable_adaptation.pdf)
+- **Villaseñor-Derbez J.C.** and Lynham J. High-Seas Closures Can be Enforced but Deliver Limited Conservation Benefits | [working paper](documents/working_papers/high_seas_pockets.pdf)
 
 ## Datasets and Software
 
 ### Data Explorers
 
--[Mex VMS explorer](https://mex-fisheries.github.io/mex_vms_explorer/)
+- [Mex VMS explorer](https://mex-fisheries.github.io/mex_vms_explorer/)
 
 ### Datasets
 
