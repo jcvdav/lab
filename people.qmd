@@ -83,7 +83,8 @@ I am a second-year undergraduate student at the Rosenstiel School of Marine, Atm
 
 Currently, I am compiling datasets of federally protected species in the Pacific and of bycatch species caught in high seas fisheries for projects on commercial fishing activity inside the Pacific Island Heritage Marine National Monument and on overlap between deep-sea mining and high seas fisheries.
 :::
-
+::: {.column width="25%"}
+![](img/headshot_whaley.jpg)
 :::
 :::::
 
