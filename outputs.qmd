@@ -77,15 +77,18 @@ title-block-banner: img/JCV_313.jpg
 
 ### In review
 
-- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. Revise and resubmit at _Nature Communications_ (Resubmitted on May 3, 2026:	NCOMMS-25-93345A) | [working paper](https://doi.org/10.1038/s44183-025-00154-1)
+- Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. Revise and resubmit at _Nature Communications_ (R&R June 8, 2026) | [working paper](documents/working_papers/piracy.pdf)
 - **Villaseñor-Derbez JC**, Willet Burfoot A, and Molina R. Competitiveness in American Seafood Requires Promoting Fisheries to be Resilient. Fish and Fisheries (R&R April 30, 2026: 1931232). | [working paper](documents/working_papers/resilient_gulf.pdf)
 
 ### In prep
 
-- Molina, R., **Villaseñor-Derbez J.C.**, and Agar J., The Economic Impacts of Hurricanes in Fisheries in the United States.
-- **Villaseñor-Derbez J.C.** et al., Towards the Study the Generalizability of Adaptive Responses in Small-Scale Fisheries | [working paper](documents/working_papers/generalizable_adaptation.pdf)
 - **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Natural Experiments Show Fuel Subsidies Amplify Fishing Pressure in Industrial Fisheries. | [working paper](documents/working_papers/subsidies2_0.pdf)
 - **Villaseñor-Derbez J.C.** and Lynham J. High-Seas Closures Can be Enforced but Deliver Limited Conservation Benefits | [working paper](documents/working_papers/high_seas_pockets.pdf)
+- **Villaseñor-Derbez J.C.** et al., Towards the Study the Generalizability of Adaptive Responses in Small-Scale Fisheries | [working paper](documents/working_papers/generalizable_adaptation.pdf)
+- Abe K., Molina R., Tanaka K., **Villaseñor-Derbez J.C.**. No Calm Before the Storm: Typhoons, Shipping, and Trade | [working paper](documents/working_papers/typhoons_trade.pdf)
+- Molina, R., **Villaseñor-Derbez J.C.**, and Agar J., The Economic Impacts of Hurricanes in Fisheries in the United States.
+- Rhodes A. and **Villaseñor-Derbez J.C.**. Changes in Fishing Activity Following an \textit{impromptu} Fuel Subsidy Reform: Insights from the Mexican Tuna Longline Fleet
+- Romero M.E. and **Villaseñor-Derbez J.C.** Distributional Implications of North America's Largest Marine Protected Area.
 
 ## Datasets and Software
 
