@@ -85,10 +85,11 @@ title-block-banner: img/JCV_313.jpg
 - **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Natural Experiments Show Fuel Subsidies Amplify Fishing Pressure in Industrial Fisheries. | [working paper](documents/working_papers/subsidies2_0.pdf)
 - **Villaseñor-Derbez J.C.** and Lynham J. High-Seas Closures Can be Enforced but Deliver Limited Conservation Benefits | [working paper](documents/working_papers/high_seas_pockets.pdf)
 - **Villaseñor-Derbez J.C.** et al., Towards the Study the Generalizability of Adaptive Responses in Small-Scale Fisheries | [working paper](documents/working_papers/generalizable_adaptation.pdf)
+- **Villaseñor-Derbez J.C.**, Reigrut J.D., Fulton S, López-Ercilla I, Torre J., De Leo G., Hernández-Velasco A., Quintana A. , Aceves-Bueno E.; Micheli F. Having your cake and eating it too: limited harvesting in marine reserves allows fishers to stay afloat | [working paper coming soon]()
 - Abe K., Molina R., Tanaka K., **Villaseñor-Derbez J.C.**. No Calm Before the Storm: Typhoons, Shipping, and Trade | [working paper](documents/working_papers/typhoons_trade.pdf)
-- Molina, R., **Villaseñor-Derbez J.C.**, and Agar J., The Economic Impacts of Hurricanes in Fisheries in the United States.
-- Rhodes A. and **Villaseñor-Derbez J.C.**. Changes in Fishing Activity Following an \textit{impromptu} Fuel Subsidy Reform: Insights from the Mexican Tuna Longline Fleet
-- Romero M.E. and **Villaseñor-Derbez J.C.** Distributional Implications of North America's Largest Marine Protected Area.
+- Molina, R., **Villaseñor-Derbez J.C.**, and Agar J., The Economic Impacts of Hurricanes in Fisheries in the United States. | [working paper coming soon]()
+- Rhodes A. and **Villaseñor-Derbez J.C.**. Changes in Fishing Activity Following an \textit{impromptu} Fuel Subsidy Reform: Insights from the Mexican Tuna Longline Fleet | [working paper coming soon]()
+- Romero M.E. and **Villaseñor-Derbez J.C.** Distributional Implications of North America's Largest Marine Protected Area. | [working paper coming soon]()
 
 ## Datasets and Software
 
