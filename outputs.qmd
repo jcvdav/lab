@@ -9,13 +9,13 @@ title-block-banner: img/JCV_313.jpg
 <!-- Use Vancouver citation style -->
 
 ### 2026
-- Schiller L.L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. _Science Advances_ (_in Press_).
-- **Villaseñor-Derbez JC**, Fernández R, Fulton S, Hernández-Velasco A, Hernández T, Woodson CB, Cárdenas JC, DeLeo GA, Torre J, Micheli F. Digital technologies and the study of adaptation in small-scale fisheries. _Ocean & Coastal Management_. 2026 Apr 1;275:108071. doi: [doi.org/10.1016/j.ocecoaman.2025.108071](https://doi.org/10.1016/j.ocecoaman.2025.108071)
+- Schiller L., **Villaseñor-Derbez J.C.**, Lynham J., and Worm B. Global impacts of drifting fish aggregating devices on marine protected areas. _Science Advances_. 2026 June 17; 12:25. doi: [10.1126/sciadv.aee6998](https://doi.org/10.1126/sciadv.aee6998)
+- **Villaseñor-Derbez JC**, Fernández R, Fulton S, Hernández-Velasco A, Hernández T, Woodson CB, Cárdenas JC, DeLeo GA, Torre J, Micheli F. Digital technologies and the study of adaptation in small-scale fisheries. _Ocean & Coastal Management_. 2026 Apr 1;275:108071. doi: [10.1016/j.ocecoaman.2025.108071](https://doi.org/10.1016/j.ocecoaman.2025.108071)
 
 ### 2025
 
-- **Villaseñor-Derbez JC**, Lynham J, Garibay-Toussaint I, Narchi NE, O’Connor R, Olguín-Jacobson C, DeLeo GA, Torre J, Arafeh-Dalmau N, Fulton S, Woodson CB. Climate-resilient fisheries are more resilient in general. _npj Ocean Sustainability_. 2025 Nov 11;4(1):56. doi: [doi.org/10.1038/s44183-025-00154-1](https://doi.org/10.1038/s44183-025-00154-1)
-- Arafeh-Dalmau N, **Villaseñor-Derbez JC**, Schoeman DS, Mora-Soto A, Bell TW, Butler CL, et al. Global floating kelp forests have limited protection despite intensifying marine heatwave threats. _Nature Communications_. 2025;16: 3173. doi: [doi.org/10.1038/s41467-025-58054-4](https://doi.org/10.1038/s41467-025-58054-4)
+- **Villaseñor-Derbez JC**, Lynham J, Garibay-Toussaint I, Narchi NE, O’Connor R, Olguín-Jacobson C, DeLeo GA, Torre J, Arafeh-Dalmau N, Fulton S, Woodson CB. Climate-resilient fisheries are more resilient in general. _npj Ocean Sustainability_. 2025 Nov 11;4(1):56. doi: [10.1038/s44183-025-00154-1](https://doi.org/10.1038/s44183-025-00154-1)
+- Arafeh-Dalmau N, **Villaseñor-Derbez JC**, Schoeman DS, Mora-Soto A, Bell TW, Butler CL, et al. Global floating kelp forests have limited protection despite intensifying marine heatwave threats. _Nature Communications_. 2025;16: 3173. doi: [10.1038/s41467-025-58054-4](https://doi.org/10.1038/s41467-025-58054-4)
 - Englander G, Zhang J, **Villaseñor-Derbez JC**, Jiang Q, Hu M, Deschenes O, et al. Input subsidies and the depletion of natural capital: Chinese distant water fishing. _J Environ Econ Manage_. 2025;130: 103127. doi:[10.1016/j.jeem.2025.103127](https://doi.org/10.1016/j.jeem.2025.103127)
 
 ### 2024
