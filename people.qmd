@@ -98,13 +98,13 @@ Currently, I am compiling datasets of federally protected species in the Pacific
 
 ::::: columns
 ::: {.column width="75%"}
-<!-- Description here -->
+I am a senior at Mast Academy where I commit to rigorous coursework and serve as president of the Math Honor Society. I am passionate about conserving the environment through A Zero Waste Culture where I have helped divert 200 tons of my community's organic waste from landfills, turning it into fertilizer instead. I have gained research experience at NOAA Fisheries, where I contributed to an ecosystem status report for the Gulf of Mexico and investigated the effects of red tide on fishermen behavior. In the near future I want to study economics and am interested in the intersection of environmental science and economic policy. 
 
 :::
 
 ::: {.column width="25%"}
 
-<!-- Use: ![](img/headshot_lastname.jpg) to insert an image -->
+![](img/headshot_papp.jpg)
 :::
 :::::
 
