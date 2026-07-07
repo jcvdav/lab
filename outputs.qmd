@@ -17,7 +17,8 @@ title-block-banner: img/JCV_313.jpg
 - **Villaseñor-Derbez J.C.** et al., Towards Assessing Generalizability of Adaptive Responses in Small-Scale Fisheries. _npj Ocean Sustainability_ (submitted on June 25, 2026: 5fc3f864-31e2-4569-8f8f-25f06f4e2a44) | [working paper](documents/working_papers/generalizable_adaptation.pdf)
 
 ### 2026
-- **Villaseñor-Derbez JC**, Willet Burfoot A\*, and Molina R. Competitiveness in American Seafood Requires Promoting Climate-Resilient Fisheries. _Fish & Fisheries_. **in press**. | [working paper](documents/working_papers/resilient_gulf.pdf)
+
+- **Villaseñor-Derbez JC**, Willet Burfoot A\*, and Molina R. Competitiveness in American Seafood Requires Promoting Climate-Resilient Fisheries. _Fish & Fisheries_. 2026 July 6; 1:8 | doi: [10.1111/faf.70108](https://doi.org/10.1111/faf.70108)
 - Schiller L, **Villaseñor-Derbez J.C.**, Lynham J, and Worm B Global impacts of drifting fish aggregating devices on marine protected areas. _Science Advances_. 2026 June 17; 12:25. doi: [10.1126/sciadv.aee6998](https://doi.org/10.1126/sciadv.aee6998)
 - **Villaseñor-Derbez JC**, Fernández R, Fulton S, Hernández-Velasco A, Hernández T, Woodson CB, Cárdenas JC, DeLeo GA, Torre J, Micheli F. Digital technologies and the study of adaptation in small-scale fisheries. _Ocean & Coastal Management_. 2026 Apr 1;275:108071. doi: [10.1016/j.ocecoaman.2025.108071](https://doi.org/10.1016/j.ocecoaman.2025.108071)
 
