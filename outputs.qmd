@@ -85,13 +85,12 @@ title-block-banner: img/JCV_313.jpg
 ## Working papers
 
 ### In Progress
-
+- **Villaseñor-Derbez J.C.** and Lynham J. Limited Conservation Benefits From the First Marine Protected Area in the High Seas [working paper](documents/working_papers/high_seas_pockets.pdf)
 - **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Natural Experiments Show Fuel Subsidies Amplify Fishing Pressure in Industrial Fisheries. | [working paper](documents/working_papers/subsidies2_0.pdf)
-- **Villaseñor-Derbez J.C.** and Lynham J. High-Seas Closures Can be Enforced but Deliver Limited Conservation Benefits | [working paper](documents/working_papers/high_seas_pockets.pdf)
-- **Villaseñor-Derbez J.C.**, Reigrut J.D.\*, Fulton S, López-Ercilla I, Torre J., De Leo G., Hernández-Velasco A., Quintana A. , Aceves-Bueno E.; Micheli F. Having your cake and eating it too: limited harvesting in marine reserves allows fishers to stay afloat | [working paper coming soon]()
-- Abe K., Molina R., Tanaka K., **Villaseñor-Derbez J.C.**. No Calm Before the Storm: Typhoons, Shipping, and Trade | [CESifo Working Paper No. 12746](https://www.ifo.de/DocDL/cesifo1_wp12746.pdf)
-- Molina, R., **Villaseñor-Derbez J.C.**, and Agar J., The Economic Impacts of Hurricanes in Fisheries in the United States. | [working paper coming soon]()
-- Rhodes A\*. and **Villaseñor-Derbez J.C.**. Changes in Fishing Activity Following an \textit{impromptu} Fuel Subsidy Reform: Insights from the Mexican Tuna Longline Fleet | [working paper coming soon]()
+- Molina, R., **Villaseñor-Derbez J.C.**, and Agar J. The Economic Impacts of Hurricanes in Fisheries in the United States. | [CESifo working Paper No. 12871](https://doi.org/10.65864/s58blvp5m8)
+- Abe K., Molina R., Tanaka K., **Villaseñor-Derbez J.C.** No Calm Before the Storm: Typhoons, Shipping, and Trade | [CESifo Working Paper No. 12746](https://www.ifo.de/DocDL/cesifo1_wp12746.pdf)
+- **Villaseñor-Derbez J.C.**, Reigrut J.D.\*, Fulton S, López-Ercilla I, Torre J., De Leo G., Hernández-Velasco A., Quintana A. , Aceves-Bueno E., Micheli F. Having your cake and eating it too: limited harvesting in marine reserves allows fishers to stay afloat | [working paper coming soon]()
+- Rhodes A\*. and **Villaseñor-Derbez J.C.** Changes in Fishing Activity Following an \textit{impromptu} Fuel Subsidy Reform: Insights from the Mexican Tuna Longline Fleet | [working paper coming soon]()
 - Romero M.E. and **Villaseñor-Derbez J.C.** Distributional Implications of North America's Largest Marine Protected Area. | [working paper coming soon]()
 
 ## Datasets and Software
