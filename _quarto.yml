@@ -12,6 +12,11 @@ website:
       - people.qmd
       - join.qmd
       - outputs.qmd
+      - text: "Internal"
+      - menu:
+          - policies.qmd
+          - templates.qmd
+          - modifying_content.qmd
   announcement: 
     icon: info-circle
     dismissable: true

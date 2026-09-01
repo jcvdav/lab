@@ -1,0 +1,13 @@
+---
+title: "Policies"
+format: html
+toc: true
+---
+
+# Authorship
+
+# Reproducibility
+
+# Use of Generative AI
+
+# What else?

@@ -1,0 +1,21 @@
+---
+title: "Templates"
+format: html
+toc: true
+---
+
+# GitHub repo templates
+
+- Research [template](https://github.com/human-ocean/template)
+- Agentic coding [template (forthcoming)]()
+
+# LaTeX templates
+
+- My GitHub repo with [templates](https://github.com/human-ocean/latex_templates) includes templates for:
+  - Paper (goes well with the Research repo template above)
+  - NSF proposal
+  - Reviewer report
+- Overleaf has a [template](https://www.overleaf.com/latex/templates/university-of-miami-thesis-template/hnqdhpwvwvcm) for UM Thesis
+- UM's [Graduate Division](https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/index.html) also says:
+
+> The University does not offer official support for students who use LaTeX to prepare the final ETD document. However, past graduate students have taken the initiative to prepare a LaTeX template formatted per Graduate School ETD formatting guidelines and have shared the template with the Sr. Editor. Students interested in obtaining the template should send an e-mail request to grad.dissertation@miami.edu. Please note that the Sr. Editor can only provide the LaTeX template and is unable to provide assistance with using the LaTeX template.

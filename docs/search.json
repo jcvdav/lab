@@ -103,5 +103,68 @@
     "title": "About Our Work",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nPlease note that we do not conduct fieldwork and that we don’t have a wet lab↩︎"
+  },
+  {
+    "objectID": "internal_resources.html",
+    "href": "internal_resources.html",
+    "title": "Internal Resources",
+    "section": "",
+    "text": "Human Ocean on GitHub is the parent organization. Feel free to create new repos in it.\n\n\n\nResearch template\nAgentic coding template (forthcoming)\n\n\n\n\nIncludes templates for:\n\nPaper (goes well with the Research repo template above)\nNSF proposal\nReviewer report"
+  },
+  {
+    "objectID": "internal_resources.html#github-repo-templates",
+    "href": "internal_resources.html#github-repo-templates",
+    "title": "Internal Resources",
+    "section": "",
+    "text": "Research template\nAgentic coding template (forthcoming)"
+  },
+  {
+    "objectID": "internal_resources.html#latex-templates",
+    "href": "internal_resources.html#latex-templates",
+    "title": "Internal Resources",
+    "section": "",
+    "text": "Includes templates for:\n\nPaper (goes well with the Research repo template above)\nNSF proposal\nReviewer report"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Human–Ocean Systems Lab",
+    "section": "",
+    "text": "a"
+  },
+  {
+    "objectID": "index.html#data-science-for-marine-policy-and-environmental-change",
+    "href": "index.html#data-science-for-marine-policy-and-environmental-change",
+    "title": "Human–Ocean Systems Lab",
+    "section": "",
+    "text": "a"
+  },
+  {
+    "objectID": "templates.html",
+    "href": "templates.html",
+    "title": "Templates",
+    "section": "",
+    "text": "GitHub repo templates\n\nResearch template\nAgentic coding template (forthcoming)\n\n\n\nLaTeX templates\n\nMy GitHub repo with templates includes templates for:\n\nPaper (goes well with the Research repo template above)\nNSF proposal\nReviewer report\n\nOverleaf has a template for UM Thesis\nUM’s Graduate Division also says:\n\n\nThe University does not offer official support for students who use LaTeX to prepare the final ETD document. However, past graduate students have taken the initiative to prepare a LaTeX template formatted per Graduate School ETD formatting guidelines and have shared the template with the Sr. Editor. Students interested in obtaining the template should send an e-mail request to grad.dissertation@miami.edu. Please note that the Sr. Editor can only provide the LaTeX template and is unable to provide assistance with using the LaTeX template."
+  },
+  {
+    "objectID": "templates.html#github-repo-templates",
+    "href": "templates.html#github-repo-templates",
+    "title": "Internal Resources",
+    "section": "",
+    "text": "Research template\nAgentic coding template (forthcoming)"
+  },
+  {
+    "objectID": "templates.html#latex-templates",
+    "href": "templates.html#latex-templates",
+    "title": "Internal Resources",
+    "section": "",
+    "text": "Includes templates for:\n\nPaper (goes well with the Research repo template above)\nNSF proposal\nReviewer report"
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
+    "section": "",
+    "text": "Authorship\n\n\nReproducibility\n\n\nUse of Generative AI\n\n\nWhat else?"
   }
 ]
