@@ -5,6 +5,20 @@ title-block-banner: img/JCV_92.jpg
 
 ## PhD Students
 
+### Macey Hartmann
+
+::::: columns
+::: {.column width="75%"}
+I am a first-year University of Miami Fellow and PhD student in Environmental Science and Policy. I graduated with distinction and honors from the University of California, Santa Barbara in 2026, earning a B.S. in Environmental Studies. Prior to my PhD, I conducted research at UCSB's Benioff Ocean Science Laboratory and Environmental Markets Lab (emLab), NOAA's Channel Islands National Marine Sanctuary, NASA Headquarters, and NASA Ames Research Center.
+
+My work researches how fishers respond to and recover from natural hazards, combining vessel-tracking and storm-track data to quantify disruptions to fishing effort and inform disaster policy for coastal fishing communities.
+:::
+
+::: {.column width="25%"}
+![](img/headshot_hartmann.jpg)
+:::
+:::::
+
 ### JD Reigrut
 
 ::::: columns
